@@ -1,0 +1,1 @@
+web: java -jar target/dependency/webapp-runner.jar --session-store redis --session-store-pool-size 5 target/heroku-redisson-test.war

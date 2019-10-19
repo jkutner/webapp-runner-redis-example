@@ -1,0 +1,5 @@
+{
+  "name": "Webapp Runner Redis Example",
+  "description": "An example app that reproduces a Redisson bug",
+  "addons": [ "heroku-redis" ]
+}
